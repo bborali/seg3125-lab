@@ -1,0 +1,12 @@
+#logo{
+    font-size: x-large;
+}
+
+
+#eng span, #fr span
+{
+    color: whitesmoke;
+    font-size: large;
+    padding-top: 10px;
+    padding-left: 20px;
+}

@@ -1,0 +1,27 @@
+.image_container img
+{
+  width: 100%;
+  display: block;
+  height: 300px;
+  object-fit: cover;
+}
+
+.image_container{
+    width: 400px;
+}
+
+.itemname{
+    color: black;
+    min-width: 0;
+    width: auto;
+    display: table;
+    margin: 0 auto;
+    font-size: large;
+}
+.title{
+    min-width: 0;
+    width: auto;
+    display: table;
+    margin: 0 auto;
+    margin-top: 20px;
+}

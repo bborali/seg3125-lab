@@ -1,0 +1,26 @@
+.ingTable , img
+{
+    display: inline-block;
+}
+
+.ingTable
+{
+    margin-left: 50px;
+}
+
+img{
+    margin-top: 25px;
+    width: 50%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.stTable{
+
+   min-width: 0;
+   width: auto;
+   display: table;
+   margin: 0 auto;
+   margin-top: 50px;
+   margin-bottom: 50px;
+}
